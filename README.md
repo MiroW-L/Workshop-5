@@ -4,6 +4,7 @@ Website link:
 - During Workshop 5, the task involved coding a graph, and I was determined on visualizing my sleep schedule. I remembered how I have kept an article 'Adolescents sleeping problems', and I thought of why not record my sleep schedule, and make it a graph. Specifically, I want to display my hours I slept in the afternoon and at night over a given period. As on sleeping problems, this project provided an opportunity to analyze and reflect on my sleeping patterns. Through coding, I was able to translate this personal data into a visual representation, allowing me to better understand how I manage and respond to sleep conflicts. 
 - As searching for 'how to make a graph p5js', there were other graphs that were already made:
 https://editor.p5js.org/aferriss/sketches/S1UTHZBHm
+
 https://www.youtube.com/watch?v=Q9Gje2vh22Q
 https://p5js.org/examples/animation-and-variables-drawing-lines/ {this example demonstrates using mouseX and mouseY)
 ## Notes(working progress)
