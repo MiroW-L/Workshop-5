@@ -9,7 +9,7 @@ Website link:
 - https://editor.p5js.org/aferriss/sketches/S1UTHZBHm
 - I also thought about a graph, I wanted to make that looks like a star teller (more to the example of the orion constellation)
 ## Notes(working progress)
-![Screenshot 2025-01-23 143443](https://github.com/user-attachments/assets/13ea0b03-2947-436a-b269-40bbae3ed9e2)"
+![Screenshot 2025-01-23 143443](https://github.com/user-attachments/assets/13ea0b03-2947-436a-b269-40bbae3ed9e2)
 **csv file for recording sleep hours and days**
 ![Screenshot 2025-01-23 151206](https://github.com/user-attachments/assets/74ffde00-6457-4823-ad3a-9b9fee7033f2)
 **This is the example of the user who made the graph, and I liked how they were no numbers and no dates, but just a line with dots indicated. I thought making this for my workshop would be experimental.**
@@ -87,7 +87,7 @@ function addLabels() {
 - It was quite long and confusing too, which I expected high technology words that are displayed. With the x-axis days and lengths, functions, and title and labels. I pasted the code on live studio code, and I was quite surprised that it worked. 
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
 ![Screenshot 2025-01-22 181548](https://github.com/user-attachments/assets/ee469aea-e5b5-4cc6-8bb5-703025526c4a)
-- 
+- But 
 ## Conclusion(+ further improvement)
 - 
 - 
