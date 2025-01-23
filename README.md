@@ -83,8 +83,7 @@ function addLabels() {
   text("Hours Slept", 0, 0);
   pop();
 }
-```ruby
-
+```
 - It was quite long and confusing too, which I expected high technology words that are displayed. With the x-axis days and lengths and the functions. I pasted that for testing on live studio code, and I was quite surprised that it worked. 
 ![Screenshot 2025-01-23 151206](https://github.com/user-attachments/assets/74ffde00-6457-4823-ad3a-9b9fee7033f2)
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
