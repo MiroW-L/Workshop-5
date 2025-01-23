@@ -10,7 +10,7 @@ Website link:
 ## Notes(working progress)
 ![Screenshot 2025-01-23 143443](https://github.com/user-attachments/assets/13ea0b03-2947-436a-b269-40bbae3ed9e2)
 **csv file for recording sleep hours and days**
-(screenshots opf the research+ youtube)
+![Screenshot 2025-01-23 151206](https://github.com/user-attachments/assets/74ffde00-6457-4823-ad3a-9b9fee7033f2)
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
 ![Screenshot 2025-01-22 181548](https://github.com/user-attachments/assets/ee469aea-e5b5-4cc6-8bb5-703025526c4a)
 (real graph on my sleeping schedule)
