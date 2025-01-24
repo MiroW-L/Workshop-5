@@ -87,8 +87,10 @@ function addLabels() {
 - It was quite long and confusing too, which I expected high technology words that are displayed. With the x-axis days and lengths, functions, and title and labels. I pasted the code on live studio code, and I was quite surprised that it worked. 
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
 ![Screenshot 2025-01-22 181548](https://github.com/user-attachments/assets/ee469aea-e5b5-4cc6-8bb5-703025526c4a)
-- Using this long example; the idea was quite different from mine, because I wanted to make a graph but make it more like a star constellation. So I decided of taking the lines off and the small dark circles will swap into an image of the moon I have downloaded.
-- I also added a few bits of the code from www.chatgpt.com and plus www.google.com
+- This graph was too advanced, so it was only testing. So I decided to make the one from the lectures, which was the bar graph with the image included.
+
+- (screenshots from the computer.)
+
 ## Conclusion(+ further improvement)
 - 
 - 
