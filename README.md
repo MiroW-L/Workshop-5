@@ -90,10 +90,21 @@ function addLabels() {
 - The initial graph I attempted to create was quite advanced, and as a result, I treated it as a test to explore more. I decided to take a different approach and focus on a simpler, more achievable design inspired by the workshop 4 lecture. This led me to create a bar graph that incorporated an image of the moon as part of its design. By following the concepts and techniques demonstrated in the lectures, I was able to make a practical simple graph, alligned with workshop objectives. This allowed me to give creativity while gaining the understanding of the depths of graph-making techniques. 
 - So I decided to look on images on the 'Zzz.png' and found out this image.
 ![599894](https://github.com/user-attachments/assets/328e2ecf-6de8-4366-8d1e-2eba82b44b60)
+
 and then uploaded to the sketch.
 ```ruby
-
-
+function showZzz(){
+  for(x=0;x<table.getRowCount();x++){
+  let row=table.getRow(x);
+  let countSleep=row.get("Sleep hours");
+  //fill(255,0,0);
+  //rect(30+x*55,320,30,-countSleep*12);
+  for(y=0;y<countSleep;y++){
+    image(sleep,40+x*55,300-y*20,40,40);
+  }
+ }
+}
+```
 ![Screenshot 2025-01-24 181955](https://github.com/user-attachments/assets/3df5a26b-a720-4854-aab5-2ebc60d6a0ae)
 
 ## Conclusion(+ further improvement)
