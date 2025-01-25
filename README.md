@@ -87,9 +87,14 @@ function addLabels() {
 - It was quite long and confusing too, which I expected high technology words that are displayed. With the x-axis days and lengths, functions, and title and labels. I pasted the code on live studio code, and I was quite surprised that it worked. 
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
 ![Screenshot 2025-01-22 181548](https://github.com/user-attachments/assets/ee469aea-e5b5-4cc6-8bb5-703025526c4a)
-- This graph was too advanced, so it was only testing. So I decided to make the one from the lectures, which was the bar graph with the image included.
+- The initial graph I attempted to create was quite advanced, and as a result, I treated it as a test to explore more. I decided to take a different approach and focus on a simpler, more achievable design inspired by the workshop 4 lecture. This led me to create a bar graph that incorporated an image of the moon as part of its design. By following the concepts and techniques demonstrated in the lectures, I was able to make a practical simple graph, alligned with workshop objectives. This allowed me to give creativity while gaining the understanding of the depths of graph-making techniques. 
+- So I decided to look on images on the 'Zzz.png' and found out this image.
+![599894](https://github.com/user-attachments/assets/328e2ecf-6de8-4366-8d1e-2eba82b44b60)
+and then uploaded to the sketch.
+```ruby
 
-- (screenshots from the computer.)
+
+![Screenshot 2025-01-24 181955](https://github.com/user-attachments/assets/3df5a26b-a720-4854-aab5-2ebc60d6a0ae)
 
 ## Conclusion(+ further improvement)
 - 
