@@ -106,6 +106,9 @@ function showZzz(){
 }
 ```
 ![Screenshot 2025-01-24 181955](https://github.com/user-attachments/assets/3df5a26b-a720-4854-aab5-2ebc60d6a0ae)
+- It did looked good at first, but somehow the 'zzz.png' was too scribbly and didn’t match the overall style of the graph. To address this, I decided to replace the image with one that better suited the graph's aesthetic while keeping the code.
+- So I picked up this image again.
+![Screenshot 2025-01-24 182222](https://github.com/user-attachments/assets/7a32fbef-b5da-4dfa-a076-b2d0cd9d2e95)
 
 ## Conclusion(+ further improvement)
 - 
