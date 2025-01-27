@@ -12,7 +12,7 @@ Website link:https://jinheeyi.github.io/workshop_5/
 ![Screenshot 2025-01-23 143443](https://github.com/user-attachments/assets/13ea0b03-2947-436a-b269-40bbae3ed9e2)
 **csv file for recording sleep hours and days**
 ![Screenshot 2025-01-23 151206](https://github.com/user-attachments/assets/74ffde00-6457-4823-ad3a-9b9fee7033f2)
-**This is the example of the user who made the graph, and I liked how they were no numbers and no dates, but just a line with dots indicated. I thought making this for my workshop would be experimental, and plus wanted to make this as for my project.**
+_This is the example of the user who made the graph, and I liked how they were no numbers and no dates, but just a line with dots indicated. I thought making this for my workshop would be experimental, and plus wanted to make this as for my project._
 - During working a code, somehow there were a lot of errors happening for workshop 4, and I was barely stuck. Looking into workshop 5 https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968 and even writing the code down what leo did, somehow have gone errors, so I decided to get help from www.chatgpt.com and www.google.com, looked into the exemplars altogether as again additional help from last time, and fixing errors.  
 - I asked chatgpt the question 'how do you make a line graph? more likely a schedule?' it showed like this:
 ```ruby// data: hours of sleep
