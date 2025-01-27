@@ -12,7 +12,7 @@ Website link:https://jinheeyi.github.io/workshop_5/
 ![Screenshot 2025-01-23 143443](https://github.com/user-attachments/assets/13ea0b03-2947-436a-b269-40bbae3ed9e2)
 **csv file for recording sleep hours and days**
 ![Screenshot 2025-01-23 151206](https://github.com/user-attachments/assets/74ffde00-6457-4823-ad3a-9b9fee7033f2)
-_This is the example of the user who made the graph, and I liked how they were no numbers and no dates, but just a line with dots indicated. I thought making this for my workshop would be experimental, and plus wanted to make this as for my project._
+_This is the example of someone who made the graph, and I liked how they were no numbers and no dates, but just a line with dots indicated. I thought making this for my workshop would be experimental, and plus wanted to make this as for my project._
 - During working a code, somehow there were a lot of errors happening for workshop 4, and I was barely stuck. Looking into workshop 5 https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968 and even writing the code down what leo did, somehow have gone errors, so I decided to get help from www.chatgpt.com and www.google.com, looked into the exemplars altogether as again additional help from last time, and fixing errors.  
 - I asked chatgpt the question 'how do you make a line graph? more likely a schedule?' it showed like this:
 ```ruby// data: hours of sleep
@@ -112,5 +112,5 @@ function showZzz(){
 and then next adapted the image code _function showZzz_ and the change of the csv file too which was  _let countSleep=row.get("Sleep hours");_ 
 
 ## Conclusion(+ further improvement)
-- Finishing the graph, I think it turned out pretty well, even the line graph which I aksed www.chatgpt.com was really impressive, but too advanced. The way I put into the bar graph with a moon image was a skill to this workshop, I have learnt how the csv graph transfers into visual code studio and lets on to start the coding, analysing it. But somehow, the graph looks not much abstract, but it looks very simple and straight to the point (giving the data of the sleep hours). 
-- For furhter updates for doing the next workshop, I will try to....
+- Finishing the graph, I think it turned out pretty well, even the line graph which I aksed www.chatgpt.com was really impressive, but too advanced. The way I put into the bar graph with a moon image was a skill to this workshop. I have learnt how the csv graph transfers into visual code studio and lets on to start the coding, analysing it. But while working on the workshop, the graph didn't looked what I expected, and not quite abstract, but it looks very simple and straight to the point (giving the data of the sleep hours). 
+- For further improvement for this graph, I might need to adjust and think more on what I should add to this graph, for example; images, and words. But through, leo's workshop lecture, I have succeeded and learnt a code on how to create a graph.  
