@@ -87,7 +87,7 @@ function addLabels() {
 - It was quite long and confusing too, which I expected high technology words that are displayed. With the x-axis days and lengths, functions, and title and labels. I pasted the code on live studio code, and I was quite surprised that it worked. 
 ![Screenshot 2025-01-22 181531](https://github.com/user-attachments/assets/9790ca38-b638-42ab-b45f-4aeec7384fe6)
 ![Screenshot 2025-01-22 181548](https://github.com/user-attachments/assets/ee469aea-e5b5-4cc6-8bb5-703025526c4a)
-- The initial graph I attempted to create was quite advanced, and as a result, I treated it as a test to explore more. I decided to take a different approach and focus on a simpler, more achievable design inspired by the workshop 4 lecture. This led me to create a bar graph that incorporated an image of the moon as part of its design. By following the concepts and techniques demonstrated in the lectures, I was able to make a practical simple graph, alligned with workshop objectives. This allowed me to give creativity while gaining the understanding of the depths of graph-making techniques. 
+- The initial graph I attempted to create was quite advanced, and as a result, I treated it as a test to explore more. I decided to take a different approach and focus on a simpler, more achievable graph inspired by the workshop 4 lecture. This led me to create a bar graph that incorporated an image of the moon as part of its design. By following the concepts and techniques demonstrated in the lectures, I was able to make a practical simple graph, alligned with workshop objectives. This allowed me to give creativity while gaining the understanding of the depths of graph-making techniques. 
 - So I decided to look on images on the 'Zzz.png' and found out this image.
 ![599894](https://github.com/user-attachments/assets/328e2ecf-6de8-4366-8d1e-2eba82b44b60)
 
@@ -106,10 +106,11 @@ function showZzz(){
 }
 ```
 ![Screenshot 2025-01-24 181955](https://github.com/user-attachments/assets/3df5a26b-a720-4854-aab5-2ebc60d6a0ae)
-- It did looked good at first, but somehow the 'zzz.png' was too scribbly and didn’t match the overall style of the graph. To address this, I decided to replace the image with one that better suited the graph's aesthetic while keeping the code.
-- So I picked up this image again.
+- It did looked good at first, but somehow the 'zzz.png' was too scribbly and didn’t match the overall style of the graph that I wanted. To address this, I decided to replace the image with one that better suited the graph's aesthetic while keeping the code.
+- So I picked up this image again, which is the moon.
 ![real moon](https://github.com/user-attachments/assets/8c98535a-6b73-4636-a3b9-0a2f780e2d4c)
-![Screenshot 2025-01-25 135456](https://github.com/user-attachments/assets/eff428df-4acf-42df-aa10-f45dd78a1c51)
+and then next adapted the image code _function showZzz_ and the change of the csv file too which was  _let countSleep=row.get("Sleep hours");_ 
+![Screenshot 2025-01-25 135456](https0://github.com/user-attachments/assets/eff428df-4acf-42df-aa10-f45dd78a1c51)
 ## Conclusion(+ further improvement)
-- 
-- 
+- Finishing the graph, I think it turned out pretty well, even the line graph which I aksed www.chatgpt.com was really impressive, but too advanced. The way I put into the bar graph with a moon image was a skill to this workshop, I have learnt how the csv graph transfers into visual code studio and lets on to start the coding, analysing it. But somehow, the graph looks not much abstract, but it looks very simple and straight to the point (giving the data of the sleep hours). 
+- For furhter updates for doing the next workshop, I will try to....
