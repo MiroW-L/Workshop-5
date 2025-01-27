@@ -110,7 +110,7 @@ function showZzz(){
 - So I picked up this image again, which is the moon.
 ![real moon](https://github.com/user-attachments/assets/8c98535a-6b73-4636-a3b9-0a2f780e2d4c)
 and then next adapted the image code _function showZzz_ and the change of the csv file too which was  _let countSleep=row.get("Sleep hours");_ 
-![Screenshot 2025-01-25 135456](https0://github.com/user-attachments/assets/eff428df-4acf-42df-aa10-f45dd78a1c51)
+
 ## Conclusion(+ further improvement)
 - Finishing the graph, I think it turned out pretty well, even the line graph which I aksed www.chatgpt.com was really impressive, but too advanced. The way I put into the bar graph with a moon image was a skill to this workshop, I have learnt how the csv graph transfers into visual code studio and lets on to start the coding, analysing it. But somehow, the graph looks not much abstract, but it looks very simple and straight to the point (giving the data of the sleep hours). 
 - For furhter updates for doing the next workshop, I will try to....
