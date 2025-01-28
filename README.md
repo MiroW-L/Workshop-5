@@ -107,7 +107,10 @@ function showZzz(){
 ```
 ![Screenshot 2025-01-24 181955](https://github.com/user-attachments/assets/3df5a26b-a720-4854-aab5-2ebc60d6a0ae)
 - It did looked good at first, but somehow the 'zzz.png' was too scribbly and didn’t match the overall style of the graph that I wanted. To address this, I decided to replace the image with one that better suited the graph's aesthetic while keeping the code.
-- So I picked up this image again, which is the moon. ![real moon](https://github.com/user-attachments/assets/8c98535a-6b73-4636-a3b9-0a2f780e2d4c)
+- So I picked up this image again, which is the moon.
+
+ ![real moon](https://github.com/user-attachments/assets/8c98535a-6b73-4636-a3b9-0a2f780e2d4c)
+
 and then next adapted the image code _function showZzz_ and the change of the csv file too which was  _let countSleep=row.get("Sleep hours");_ 
 ![Screenshot 2025-01-25 135456](https://github.com/user-attachments/assets/c2bb4ffb-74ee-44df-bccf-14e5fc50388e)
 _using this example on this lecture_
