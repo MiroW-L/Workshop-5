@@ -1,4 +1,4 @@
-Website link:https://jinheeyi.github.io/workshop_5/
+Website link: https://jinheeyi.github.io/workshop_5/
 
 ## Introduction
 - During Workshop 5, the task involved coding a graph, and I was determined on visualizing my sleep schedule. I remembered how I have kept an article 'Adolescents sleeping problems', and I thought of why not record my sleep schedule, and make it a graph. Specifically, I want to show my hours I slept in the afternoon and at night over everyday and including free time. As on sleeping problems, this project provided an opportunity to analyze and reflect on my sleeping patterns. Through coding, I was able to record my personal data into a presentation, allowing me to understand on how I managed and plus responding to sleep conflicts.
