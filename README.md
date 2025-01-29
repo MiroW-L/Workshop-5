@@ -8,3 +8,4 @@ Link to Jinhee Yi's Work: https://github.com/jinheeyi/Workshop-task-5
 - This was very fun to use and see how the data could be changed around the screen, whether that be with size or x/y position changes, it all made the images move about in a really interesting way that made me really think about how data gets reprosented in media/society.
 ![image](https://github.com/user-attachments/assets/d7fd496b-0749-4201-9dd1-df6d8434e2fe)
 - Finally I want to see if the data is capable of being animated to move about, I'm going to try make a simple movement for it so it moves across the screen.
+- I looked at an animating tutorial and it looked too advanced for me, at least at the moment, but it seemed really interesting on how you can animate and make clusters of functioning parts, unfortunately I don't have the time to ready it thoroughly but I'll leave the link here: https://p5js.org/tutorials/repeating-with-loops/
