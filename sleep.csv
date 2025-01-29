@@ -1,8 +1,8 @@
-Days,Sleep hours
-Mon,6
-Tue,7
-Wed,5
-Thur,10
-Fri,9
-Sat,10
-Sun,8
+Days,Sleep hours,Miro Sleep hours
+Mon,6,6
+Tue,7,6
+Wed,5,4
+Thur,10,6
+Fri,9,8
+Sat,10,7
+Sun,8,8
